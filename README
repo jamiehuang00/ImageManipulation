@@ -1,0 +1,40 @@
+//Jamie Huang, jhuan131
+//Ryunosuke Saito, rsaito1
+
+Description: In this project, we coded image manipulation functions: exposure, alpha-blend, zoom in, zoomout, pointilism, swirl, and blur. The program read images that were in PPM format (P6) and the output of the image was also in PPM format.
+
+project.c:
+Contains error checking functions in main function and returns certain integers for each errors.
+0 - No errors
+1 - User doesn't specify input filename or output filename
+2 - Input file cannot be opened
+3 - Input file is not PPM Format or P6, or reading fails
+4 - User does not specify operation or function (i.e. swap, bright, etc), or they don't match any of the operations implemented
+5 - User specifies incorrect number or type of arguments than arguments in implemented function
+6 - User specifies arguments that are out of range or senseless
+7 - User specifies output file that cannot be opened for writing
+
+ppm_io.c:
+Contains functions to read and write images using the PPM format.
+read_ppm: Makes sure that the file that is read is a valid ppm format, and converts to an image struct
+write_ppm: Makes sure that pixel data is written properly.
+
+ppm_io.h:
+Initializes the following structs: 
+_pixels is a struct, and contains the following variables: unsigned chars of r (red), g (green), b (blue), and a Pixel.
+_image is also a struct, and contains the following variables: Pixel, ints of columns and rows, and an image 
+
+imageManip.c:
+exposure: exposure takes in a value EV as it's argument. Then it multiplies the current pixel color channel by 2^EV, which then becomes the new pixel color channel. If the new pixel color channel is greater than 255, it becomes 225.
+alpha-blend: alpha-blend takes in two images into one given an alpha value, and multiply the alpha value by the first image pixel color channel and 1-alpha by the second image pixel color channel. 
+zoom in: zoom-in doubles the rows and columns of a given image. For the new image, the 2x2 pixel will have duplicated 1x1 pixel of the ol.
+zoom out: zoom-out cuts the rows and columns of a given image in half. For the new image, given a 2x2 pixel in the old image, the new 1x1 pixel is the average pixel color channel.
+pointilism: pointilism takes in an image and randomly picks 3% of the pixels. These pixels are at the center of a circle with a radius between 1 and 5. Checking if the pixel was within the range was done through iterating over the center - radius and center + radius x and y values.
+swirl: swirl takes in a center (x,y) coordinate and a distortion scale. It moves each pixel into the designated place after calculations using the given formula. If the new x or y value exceeds the maximum dimensions, then it will make the corresponding pixel into black. 
+blur: The blur function makes the image blur. It takes in an image and a float as arguments and creates a matrix of Gaussian distribution determined by the value of the float inputted. Then it does blurOnePixel to each pixel of the image and the gaussian matrix and makes it blur.
+gaussian: Takes in argument of a float, and creates a gaussian matrix 10*float value, where each element of the gaussian matrix is defined by the gaussian distribution equation.
+blurOnePixel: Computes the normalized sum for each gaussian matrix element and value of each pixel, by doing dot produt.
+
+
+imageManip.h:
+Declares functions implemented in imageManip.c

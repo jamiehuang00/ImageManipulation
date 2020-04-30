@@ -1,0 +1,777 @@
+commit 3d3c908534c077f97875b6f758609270ce3bf501
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Apr 2 08:22:04 2020 -0400
+
+    added comments
+
+commit 7d7c49216de65860b80f927ff9a4d5edcb72ca9c
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Apr 2 01:17:04 2020 -0400
+
+    added comments
+
+commit e33e2b128f44b65e9d5df31c39dc94a6b9cedf9a
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Apr 1 18:10:46 2020 -0400
+
+    added comments
+
+commit 70e1cd43cb12e3f9dbc5025bc78602f6db5f4a5c
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Apr 1 17:53:01 2020 -0400
+
+    fixed blur helper
+
+commit 53ef27e925c73b49091e0b6ab060840c63cf29f6
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Apr 1 17:52:52 2020 -0400
+
+    updated README
+
+commit 78e0caa34ca66adc5631540ac6bd2db0141bc9fd
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Apr 1 00:58:13 2020 -0400
+
+    fixed range for blend
+
+commit c6a20fc8734ffcf25917ccb6cd338d46ff9851be
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 31 23:58:19 2020 -0400
+
+    fixed error 4 and 7
+
+commit f353c789d0c32db131e2e1214d5e5d518fc20a31
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 31 23:21:12 2020 -0400
+
+    fixed deallocation issue
+
+commit 1084830612288662cc4ec698d716457af63efb49
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 31 23:07:48 2020 -0400
+
+    fixed errors 1,4,7
+
+commit 142f478bf93ce50adf746db0f6988de39f12b9fa
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 31 22:49:35 2020 -0400
+
+    dealt with error 1 and 4
+
+commit 7a76165f1861c363f2d183885c0c27672d5dd3f8
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 31 22:40:56 2020 -0400
+
+    freed every pixel
+
+commit 2e2e240aaf801b257d1118b433d7c74cf000991b
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 31 22:17:22 2020 -0400
+
+    brushing up
+
+commit b83d580a4ccf983c25ca19b2973382f5b95db663
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 31 18:35:27 2020 -0400
+
+    changed to double
+
+commit c58a062eebb92b583fe70d5d3ba54124fefdbf33
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 31 18:21:30 2020 -0400
+
+    fixed data type
+
+commit 925769a6221ef5e4eae76d7919a6c438a288869c
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 31 13:50:35 2020 -0400
+
+    fixed segmentation fault
+
+commit e1baa6d9044c2d478e66682531db119371de3865
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Mon Mar 30 23:20:13 2020 -0400
+
+    took care of error message
+
+commit c43bcb9a308f410d70c860d022c3c2ffbdcd46df
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Mon Mar 30 00:27:56 2020 -0400
+
+    memory deallocation
+
+commit 045fe5e742567e3eff7461c9a697f3f8fa01bb25
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 27 23:05:49 2020 -0400
+
+    fixdd error 6
+
+commit 2774645965c55016ff87e400440a3e656c35bffc
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 27 23:04:11 2020 -0400
+
+    fixed zoom out
+
+commit 6ef8165f72f9f2d3c42ad595933af420d8ff6bbc
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Fri Mar 27 21:15:22 2020 -0400
+
+    fixed blend function
+
+commit f762529eb72ec79a827a5620068efceceb7e9f27
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Fri Mar 27 04:49:26 2020 -0400
+
+    modified blend function
+
+commit 60573e414a4c35e78caf053abd58bf6fa601a25b
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 27 02:29:35 2020 -0400
+
+    isdigit
+
+commit adb727f04c5e3f203ba0e23aaaad8103c215ad45
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 27 01:58:14 2020 -0400
+
+    took care of compiloer
+
+commit 07f726a3c09602e63e62672e8179aa6b3624be79
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 27 01:57:08 2020 -0400
+
+    took care of compiler errors
+
+commit f3665f85052bfef522f6f32fe9dfa44fc746972d
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 27 01:49:30 2020 -0400
+
+    took care of return statements
+
+commit a77c2e4891a348523fa56d57e7b9a4c692b7a061
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 27 01:49:09 2020 -0400
+
+    took care of return statements
+
+commit 099484dbb4b8d1457509d5a69dcc147195af5d6a
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 27 01:48:46 2020 -0400
+
+    changed things
+
+commit 4d0596fb7c32059803b64254d1f1a7247fb5ba6b
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 27 00:56:31 2020 -0400
+
+    averaged zoomout pixels
+
+commit 2d3996930c284e304215b6a2c3c0c6349dcf9d33
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 26 22:07:57 2020 -0400
+
+    accounted for normalization
+
+commit cdb3cca5ffedc334e197391fcbe2a54eb6ec26f9
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 26 21:00:15 2020 -0400
+
+    modified swirl
+
+commit c15f23363a112de594b4a0d48f4cc795a15f0584
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 26 09:49:19 2020 -0400
+
+    added if statements to consider for outof bounds
+
+commit 0e34d0234e307ffc13c048f729e204db7a580df9
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 26 08:59:14 2020 -0400
+
+    worked on swirl function
+
+commit cf5338bba5ec0b282627dbb0248fd78d6023b22e
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 26 02:25:33 2020 -0400
+
+    changed syntax
+
+commit 326cadd557847590651968b75621540a25c41c03
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 26 01:52:15 2020 -0400
+
+    attempt to fix blend
+
+commit c64959fe022eb02ebc1db117408fed6bf8d743e3
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 26 00:08:15 2020 -0400
+
+    completed pointlism function
+
+commit da2ef47c78edec3dc11a80f656889aa6d066e193
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 26 00:07:28 2020 -0400
+
+    fixed typo
+
+commit e72e452d28baa7fb4eebc2d4b9adbd380c72ec5b
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 25 13:38:57 2020 -0400
+
+    fixing point function
+
+commit 4e102a1b0c6d07eae11018c24ca3def065560ebd
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 25 03:05:05 2020 -0400
+
+    fixing blend function
+
+commit c620039fe05ad45f9be5556906e670ab6b40cadb
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 25 01:50:39 2020 -0400
+
+    got rid of printf statements for debugging
+
+commit 10f88ec3dd6d54a6c43bb5b26daad9b4b44005ef
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 25 00:29:32 2020 -0400
+
+    changed
+
+commit cb2d72dc8dae661faf133c71ccde5db327cd4506
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 25 00:29:17 2020 -0400
+
+    changed dimensions for i j
+
+commit 7e2f346ad717b5aa17cc89e8fb3f3d67b173ccdd
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 24 22:32:27 2020 -0400
+
+    fixed compile errors
+
+commit 090f5deb9611c84454451f4be196673104cb4e35
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 24 22:06:17 2020 -0400
+
+    declared blurOnepixel
+
+commit d72da97cf8175919d26ab0db732b3decf92b033f
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 24 10:55:58 2020 -0400
+
+    worked on pointilism function
+
+commit c592fa6705bf0cdb5e4b8db3e4e54871330686e6
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 24 02:20:19 2020 -0400
+
+    changed comments
+
+commit 63efb52600609126705318708d3958dee675ee8a
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 24 02:20:01 2020 -0400
+
+    wrote blur, applied helper to whole image
+
+commit 4ab6a0383ceebb2676c94df5cc3e4fb8538a2dc0
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 24 02:09:59 2020 -0400
+
+    created helper function that allows applying filter for one pixel
+
+commit 5bf2c922eedb2f2873089590133198a9235ad4d0
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 24 00:50:16 2020 -0400
+
+    dealt with indices
+
+commit 681e0ccc0b7d71b960f0cc5334875263f6bbbd32
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Sun Mar 22 21:40:11 2020 -0400
+
+    reading in files
+
+commit 7447517d66584d5ccffa00101bd513e5d13fb699
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Sun Mar 22 03:26:33 2020 -0400
+
+    reading in comments effectively
+
+commit d22fe4692bcc736f272ecac71fb3e28b88e5efea
+Author: Ryunosuke Saito <rsaito1@jh.edu>
+Date:   Sun Mar 22 06:49:30 2020 +0000
+
+    read in comments correctly
+
+commit 33978577456b4cc5da729d0f8c1097c2c315d9ba
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Sat Mar 21 05:05:54 2020 -0400
+
+    attempted to fix valgrind errors
+
+commit 4a785e6039445720cd4cb91cfdd55cc1a9e5d0a7
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 01:37:09 2020 -0400
+
+    changed errors
+
+commit 9f65c097ceefc6d4ffa2eb7f2a9adace34e3bda6
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 01:33:01 2020 -0400
+
+    fixed naming error
+
+commit 651ce3156e6848d8106269a5033e4dd7edc242a8
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 01:30:51 2020 -0400
+
+    zoomout
+
+commit 0da42e7da207a2bb152f16f9aa7b4f4d4279891d
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 01:17:04 2020 -0400
+
+    changed #if0 position
+
+commit 23af76e7ca723c7287168f9dd52aa43ecdd578df
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 01:12:03 2020 -0400
+
+    wrote zoomout did same as zoomin
+
+commit 32adde316ccfcc6d6ac9c891d501c0c137c3780d
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 00:54:36 2020 -0400
+
+    moved from starter
+
+commit e6c77f8210ac11f154b2fbbda20fecbef1432213
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 00:54:09 2020 -0400
+
+    moved from starter
+
+commit eebd870f23f908651c2a6ebda04f8ed41f49c68b
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 00:47:35 2020 -0400
+
+    moved from starter code
+
+commit 597da9afaca67b3a54e9297ecaff6b3c8e27a8e9
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 00:26:14 2020 -0400
+
+    uncommented
+
+commit 10addd3fea1b94638488136766f54cde5776f78b
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 00:25:51 2020 -0400
+
+    name
+
+commit 9b034f21c5c049d42b7e7ab62d869f1b18332837
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Fri Mar 20 00:12:19 2020 -0400
+
+    made 1d array for output
+
+commit 5eec58431f28919eaf9193e5babb8e286db0c1e5
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 19 21:31:04 2020 -0400
+
+    worked on alphablend
+
+commit 0e95e27aac6906036f41e0141939d727085eb22a
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 19 02:29:10 2020 -0400
+
+    commented incomplete functions out
+
+commit 379cd723e56f89a0f95312c22ca88624157d4259
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 19 02:27:41 2020 -0400
+
+    changed makefile for compliation
+
+commit ef6c1dad377969d3d6b35c7bde8e9a3d27600daf
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Thu Mar 19 02:13:52 2020 -0400
+
+    added math library
+
+commit 0009231b4e04ac1f4e8fb4243aae88536d05b7d1
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 19 02:03:37 2020 -0400
+
+    moved from starter code
+
+commit 9861b3bcb37e56282f1cae6604ebc010211a6743
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 19 02:02:47 2020 -0400
+
+    moved from starter code
+
+commit cb73d7b938f5f835ed8c9a82495daf08db1b97de
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 19 02:02:18 2020 -0400
+
+    changes
+
+commit 1aae0a39a7e8401b0b2eb35fce8e995dd7521705
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 19 02:01:59 2020 -0400
+
+    changed order or line
+
+commit 2a4ac6af09904190deabaf9b783891c1ec9b5f29
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 19 02:01:03 2020 -0400
+
+    included linking and compiling for imageManip
+
+commit 21918a7fb4ca4cac9909fe1eff2069334b46bcf7
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 19 02:00:31 2020 -0400
+
+    fixed errors regarding indexing
+
+commit 726a34f2a5dbc03d081a016616f3dc4862a9dd52
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 19 00:16:48 2020 -0400
+
+    changed order
+
+commit 179d90d0cb2ae57e0b68cd27ee305af2f71b5202
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Thu Mar 19 00:15:31 2020 -0400
+
+    changed to sscanf so new line not read in
+
+commit 9a9dd87964e1d366c73e903531d23517b7105f58
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 23:17:53 2020 -0400
+
+    updated makefile
+
+commit 13facec1d2c62328c2815c3e03ae9b314114417a
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 20:18:07 2020 -0400
+
+    attempt to code zoomin
+
+commit 9940e8a541d31b6368cdcfb221e8cf3de5f6ffde
+Merge: 317cda9 764d9b8
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 19:03:01 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/ryuno25/midproject
+
+commit 317cda9e9e8b6f50bd03227da122158795d63b9e
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 19:02:42 2020 -0400
+
+    changed function
+
+commit 764d9b8d20f4281dcf6f17e95c746679bef5e790
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 15:24:10 2020 -0400
+
+    created gaussian matrix
+
+commit fe1393b962216d5eade1fae6439e787035e9670c
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 14:51:39 2020 -0400
+
+    checked if input/outputfiles are null
+
+commit 4bb1ab86bbc2b1b35e15c04a2ab9e08e893167f0
+Merge: 9f0a0f9 536325b
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 13:07:31 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/ryuno25/midproject
+
+commit 536325bae9fc01614d8a62ec28fc73f050b5884d
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 13:07:09 2020 -0400
+
+    fixed one error regarding alpha blend
+
+commit 9f0a0f97570e092368e4b38570d1da9139654b47
+Merge: 8666d09 8c0dd68
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 13:02:51 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/ryuno25/midproject
+
+commit 8c0dd6833ae9eaba532c1f85e656be414245e3b4
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 12:59:44 2020 -0400
+
+    got some errors
+
+commit 8666d09d4652f56dead1933d74b2d11af08966f6
+Merge: fb8833e 7cda8e7
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 12:49:58 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/ryuno25/midproject
+
+commit 7cda8e7ea5347424a9adfa1adcb14a5234af36e5
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 12:48:45 2020 -0400
+
+    added return 6 statements
+
+commit 1915ab08ab69534514489d5aa5a05daa49f258c7
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 12:42:52 2020 -0400
+
+    wrote code to run functions
+
+commit fb8833e6d276259f91b7f3565b478adf6bb24bbb
+Merge: 52b7b48 8492497
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 12:25:55 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/ryuno25/midproject
+
+commit 8492497e5c23d9584a25e690ca1243e5557254b4
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 12:25:30 2020 -0400
+
+    fixed errors to get float values from command line arguments
+
+commit 52b7b48f096ab47fc4ab6378d8b871e8d009c62c
+Merge: 7dcda21 41ad0a0
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 12:11:58 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/ryuno25/midproject
+
+commit 41ad0a0da482d02b6139749dbc64dba05a128727
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 12:11:32 2020 -0400
+
+    added things for exposure and blend
+
+commit 7dcda21a87f8ba750f27075633da87a4f63d3c3f
+Merge: 9e8e5a3 a7374d7
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 11:43:56 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/ryuno25/midproject
+    merged
+
+commit a7374d77429d14173f4345bfa8da8c6f38f00515
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 11:39:08 2020 -0400
+
+    added command line argument errors
+
+commit 5bee71fb16d833d7910e4709f880e53a115e5a0b
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 18 03:58:30 2020 -0400
+
+    finished blend function
+
+commit 9e8e5a375cd32fd0b8fbc570fce7d50e8c9c2969
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 18 02:58:16 2020 -0400
+
+    created gitlog
+
+commit 1a4028c7bfbc4b82fe866ff904209c9ee5b225ce
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 21:07:29 2020 -0400
+
+    modified syntax for errors
+
+commit b1af5352bd997092ce2cb12625a0cba436866e2e
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 20:51:46 2020 -0400
+
+    fixed errors after compilation
+
+commit 9e75dd175d1ab68286b286ee954368d552231cf7
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 20:08:44 2020 -0400
+
+    added includes for successful compilation
+
+commit bd75d31dc604695ff37161283fa0c479cc7f54d7
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 19:35:22 2020 -0400
+
+    fixed ppm_io.c
+
+commit b951ac32f6fabd23e493c5c0dd271a1fec24feb2
+Merge: c86acec fcd9cf3
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 19:33:59 2020 -0400
+
+    difficulty working on git due to unmerged data
+
+commit c86acec1fce7f027145af1a35c8f433b98c0f521
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 19:30:58 2020 -0400
+
+    modified reading
+
+commit fcd9cf3b8d52600596bc5d309817fd70430f1642
+Author: Ryunosuke Saito <rsaito1@jh.edu>
+Date:   Tue Mar 17 23:18:56 2020 +0000
+
+    modified reading in files
+
+commit 2258f1fccab6b76876272e80e7dc68cc8223565a
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 17 17:56:53 2020 -0400
+
+    malloced data array and fread textfile
+
+commit 2d0944e0f6956e85529bfd3ce6f6f1ed3b5e85ce
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 17 17:49:29 2020 -0400
+
+    read in rows and columns
+
+commit aae538399531b05bd6b5baf8e95956029c9244ea
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 17 17:24:48 2020 -0400
+
+    created 255 bound
+
+commit 593b6aa710d0fc6874ff884a8320d620475647a0
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 17 17:06:25 2020 -0400
+
+    added names
+
+commit 7b45365ec0bb12b8a7e785099efb54e118ba383a
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 05:22:38 2020 -0400
+
+    started a-blend function
+
+commit 812801a9375659e0cf577b361e923c4d2e4446b0
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 02:42:39 2020 -0400
+
+    added color specification
+
+commit a477521e1e7f302372dc6f4e23d04e1730e12db3
+Merge: 1bf128b c6e8059
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 02:33:59 2020 -0400
+
+    Merge branch 'master' of https://bitbucket.org/ryuno25/midproject
+
+commit 1bf128b1828bc3f68d3ad498fe40d4a4ded60ea1
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Tue Mar 17 02:33:35 2020 -0400
+
+    reading in PPM files
+
+commit c6e8059da1424ffd45c11f5e6f595877c7bf93eb
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 17 02:09:23 2020 -0400
+
+    modified zoom in by mallocing new array
+
+commit 7be64dc57bcff80d735b1d392c390b9ee7958fc5
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Tue Mar 17 01:49:10 2020 -0400
+
+    implemented part of zoom in
+
+commit 89565d1da30f60210b624a5ccdee04d9a0d43cfa
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Mon Mar 16 21:55:15 2020 -0400
+
+    created exposure function
+
+commit 8a987e4724f514686fab09ab1c8fbc644781db2d
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Mon Mar 16 21:38:44 2020 -0400
+
+    created helper function for blur
+
+commit 9ef787d547dd63027cf0ea8a0c33ff569a11955b
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Mon Mar 16 18:26:09 2020 -0400
+
+    checked if tag is null
+
+commit 8c40841ab361ee2e895f46aa06f78244e947034c
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Mon Mar 16 18:22:56 2020 -0400
+
+    implemented blur function a bit
+
+commit 989bc731e80e0d28a7b4ff2735c34685de5aa3d9
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Mon Mar 16 18:22:26 2020 -0400
+
+    malloced resulting array
+
+commit 964f10acbf0d9172e984650de88258b582575ff2
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Mon Mar 16 18:13:57 2020 -0400
+
+    defined the seven operations
+
+commit a854913db7d1626910112166f7d5aa61ef3817b3
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Sat Mar 14 20:24:09 2020 -0400
+
+    opened files for reading and writing
+
+commit 01277dad3eeecd9f880080815acc390dfd62af50
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 11 12:37:37 2020 -0400
+
+    copied starter code
+
+commit 2209a82e2df0d23bfa4d00e8df2f0099a18cf59d
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 11 12:24:31 2020 -0400
+
+    got the starter code
+
+commit 4f7537064a66ffcc32a494ff974f4b2dffd01b11
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 11 12:10:47 2020 -0400
+
+    created structs for color and pixels
+
+commit f1535d7a3606319f6f6421658ca901008139f4c0
+Author: Jamie Huang <jhuan131@jhu.edu>
+Date:   Wed Mar 11 11:30:50 2020 -0400
+
+    created project.c
+
+commit 165819e5555441fb4d72d353025a32c01ee84ce2
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 11 11:30:01 2020 -0400
+
+    made 2 more files
+
+commit 8cce1e49baf145563aa8d46cb647298dab04c168
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 11 11:07:34 2020 -0400
+
+    made files
+
+commit cd8facf6140ef577bd2f29ac18ce29b78486d8d6
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 11 11:05:24 2020 -0400
+
+    delete
+
+commit 2238c558418c9e91702741d453718814145e8ca9
+Author: Ryunosuke <rsaito1@jh.edu>
+Date:   Wed Mar 11 10:55:28 2020 -0400
+
+    ahhh
